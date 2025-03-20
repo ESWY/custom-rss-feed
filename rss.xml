@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Custom RSS Feed</title>
+    <link>https://github.com/ESWY/custom-rss-feed</link>
+    <description>This is a custom RSS feed for testing purposes.</description>
+    <item>
+      <title>Test Item</title>
+      <link>https://github.com/ESWY/custom-rss-feed</link>
+      <description>This is a test item.</description>
+      <pubDate>Wed, 20 Mar 2025 02:02:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
